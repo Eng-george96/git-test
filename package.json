@@ -1,0 +1,23 @@
+{
+  "name": "info-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node your-package.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eng-george96/git-test.git"
+  },
+  "author": "george",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eng-george96/git-test/issues"
+  },
+  "homepage": "https://github.com/Eng-george96/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
